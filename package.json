@@ -1,0 +1,18 @@
+{
+  "name": "code-signify",
+  "version": "1.0.0",
+  "description": "Easily set your code signing identity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karl Taylor <karl@karltaylor.dev>",
+  "license": "MIT",
+  "bin": {
+    "code-signify": "index.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "inquirer": "^7.0.0"
+  }
+}
