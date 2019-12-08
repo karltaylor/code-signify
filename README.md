@@ -23,7 +23,7 @@ $ code-signify
 
 > Provisioning profile "XYZ" doesn't include signing certificate "123". 🛑
 
-Enter Code Signify.
+Enter Code Signify 🗃
 
 If you know which certificate you want to use, you can run `code-signify`. This will list the Apple certificates that are currently in your keychain.
 
