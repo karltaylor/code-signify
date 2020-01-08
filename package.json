@@ -2,10 +2,19 @@
   "name": "code-signify",
   "version": "1.0.1",
   "description": "Easily set your code signing identity",
+  "keywords": [
+    "Apple",
+    "Certificate",
+    "code-signify",
+    "Provisioning profile",
+    "security",
+    "Xcode"
+  ],
+  "bugs": "https://github.com/karltaylor/code-signify/issues",
+  "homepage": "https://github.com/karltaylor/code-signify#code-signify-",
   "main": "index.js",
   "author": "Karl Taylor <karl@karltaylor.dev>",
   "license": "MIT",
-  "keywords": ["code-signify", "Apple", "security", "Xcode", "Provisioning profile", "Certificate"],
   "bin": { 
     "code-signify": "index.js"
   },
