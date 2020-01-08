@@ -3,12 +3,10 @@
   "version": "1.0.1",
   "description": "Easily set your code signing identity",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Karl Taylor <karl@karltaylor.dev>",
   "license": "MIT",
-  "bin": {
+  "keywords": ["code-signify", "Apple", "security", "Xcode", "Provisioning profile", "Certificate"],
+  "bin": { 
     "code-signify": "index.js"
   },
   "dependencies": {
